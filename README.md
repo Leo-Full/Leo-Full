@@ -1,9 +1,19 @@
-Hello, my name is Leonildo Neto 👋
+Olá, eu sou o Leonildo 👋
+
+Analista de Sistemas | Automação (n8n) | QA 
+
+Curitiba, PR 🇧🇷
 
 
-- 🔭 I'm currently learning JavaScript and react through the Tera Academy course
-- 😄 I'm looking to start in the technology market 
-- 📫 Contact me via linkedin: https://www.linkedin.com/feed/
+Sobre mim
+
+Trabalho na fronteira entre automação, integrações de sistemas e garantia de qualidade. Meu dia a dia envolve construir fluxos de automação em n8n, integrar APIs e ferramentas digitais, e garantir que tudo isso funcione direito antes de chegar no usuário final.
+
+🔧 Atualmente Analista de QA na Cartpanda — testes de software, identificação e acompanhamento de bugs, validação de funcionalidades
+⚙️ Antes disso, Analista de Sistemas e Automações na Properfy e estágio em Desenvolvimento de Sistemas e Automações na AT&T — foco em n8n, integrações via API REST e resolução de gargalos operacionais
+🎓 Bacharel em Análise e Desenvolvimento de Sistemas (PUC-PR) e em Administração de Empresas (Fanorpi)
+🤖 Uso ferramentas de IA (Claude, GPT, Gemini, ElevenLabs) no dia a dia para acelerar automações e workflows
+📫 Contato: https://www.linkedin.com/in/leonildoneto/
 
 <div> 
 <a href="https://github.com/Leo-Full">
