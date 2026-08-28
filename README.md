@@ -14,7 +14,7 @@ Trabalho na fronteira entre automação, integrações de sistemas e garantia de
 - ⚙️ Antes disso, **Analista de Sistemas e Automações** na Properfy e estágio em Desenvolvimento de Sistemas e Automações na AT&T — foco em n8n, integrações via API REST e resolução de gargalos operacionais
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas (PUC-PR) e em Administração de Empresas (Fanorpi)
 - 🤖 Uso ferramentas de IA (Claude, GPT, Gemini, ElevenLabs) no dia a dia para acelerar automações e workflows
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/leonildo-b-diniz-neto-926b3a267)
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/leonildoneto/)
 
 ---
 
