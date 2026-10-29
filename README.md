@@ -33,17 +33,16 @@ Trabalho na fronteira entre automação, integrações de sistemas e garantia de
 
 ## Projetos em destaque
 
-> 🔗 *(atualizar com links dos seus repositórios de automação/QA reais)*
-
-- **[Nome do projeto]** — breve descrição do fluxo de automação, problema que resolve, integrações usadas
-- **[Nome do projeto]** — idem
-- **[Nome do projeto]** — idem
+- **[Sofia, agente para clínica odontológica](https://github.com/Leo-Full/sofia-clinica-odontologica)**: agente de atendimento no WhatsApp feito em n8n com IA, para triagem, agendamento com ferramentas Google e gestão das conversas.
+- **[Triagem de leads de formulário](https://github.com/Leo-Full/triagem-leads-formulario)**: automação em n8n que valida e enriquece leads via RDAP, classifica por score e prioridade e avisa no Telegram.
+- **[Portfólio de QA](https://github.com/Leo-Full/qa-portfolio)**: testes automatizados com Selenium, Python e pytest.
+- **[Rolim & Ramos Advocacia](https://github.com/Leo-Full/rolim-e-ramos-advocacia)**: redesign do site de um escritório de advocacia em HTML, CSS e JS puros. [Ver ao vivo](https://leo-full.github.io/rolim-e-ramos-advocacia/)
 
 ---
 
 ## GitHub Stats
 
-![Leonildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Full&show_icons=true&theme=dark)
+![Sequência de contribuições do Leonildo](https://streak-stats.demolab.com/?user=Leo-Full&theme=dark&hide_border=true)
 
 ---
 
